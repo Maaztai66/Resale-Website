@@ -28,7 +28,7 @@ const Footer = () => {
         </div>
 
         {/* Contact Info */}
-        <div className="ml-20">
+        <div className="ml-10">
           <h3 data-aos="fade-right" className="text-xl font-semibold  mb-3">
             Contact Us
           </h3>
