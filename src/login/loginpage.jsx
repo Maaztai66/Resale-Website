@@ -11,7 +11,7 @@ const Loginpage = () => {
         {/* Header */}
         <div className="flex items-center mb-8">
           <img src={logo} alt="logo" className="h-10 w-10 mr-2" />
-          <h1 className="text-xl font-bold">MyApp</h1>
+          <h1 className="text-xl font-bold">Resale Place</h1>
         </div>
 
         {/* Login Heading */}
